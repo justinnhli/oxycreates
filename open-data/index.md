@@ -1,0 +1,7 @@
+# Free Datasets
+
+* [Kaggle](https://www.kaggle.com/datasets), datasets for machine learning competitions
+* [DataLA](https://data.lacity.org/), where the City of LA makes their data available
+* [data.gov](http://data.gov), where the US government makes their data available
+* [UNdata](http://data.un.org/), where the UN makes their data available
+* [Google BigQuery](https://cloud.google.com/bigquery/public-data/), >TB public data from Google
