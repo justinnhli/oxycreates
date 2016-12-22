@@ -25,7 +25,7 @@
 
 1. Ask me for your Github repository, then use GitKraken to clone the repository onto your computer. You can do this under the File menu. 
 
-1. Open the repository as a project in PyCharm. Make sure that the project interpreter is set to Python 3; you can find this under preferences/settings dialog box.
+1. Open the repository/folder as a project in PyCharm. Make sure that the project interpreter is set to Python 3; you can find this under preferences/settings dialog box. You may also be asked if you want to install git; although it's not necessary, PyCharm will prompt you every time, so it may be easier to acquiesce.
 
 1. Open a Python file. Follow PyCharm's instructions if it asks you to install additional packages.
 
