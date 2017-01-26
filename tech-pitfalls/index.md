@@ -18,3 +18,4 @@ A selection of articles on the pitfalls of technology with respect to social jus
 * [https://www.jacobinmag.com/2016/09/big-data-algorithms-math-facebook-advertisement-marketing/](https://www.jacobinmag.com/2016/09/big-data-algorithms-math-facebook-advertisement-marketing/)
 * [https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.j4ykws6jv](https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.j4ykws6jv)
 * [https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de](https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de)
+* [https://antidotezine.com/2017/01/22/trump-knows-you/](https://antidotezine.com/2017/01/22/trump-knows-you/)
