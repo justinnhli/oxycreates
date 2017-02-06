@@ -19,3 +19,4 @@ A selection of articles on the pitfalls of technology with respect to social jus
 * [https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.j4ykws6jv](https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.j4ykws6jv)
 * [https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de](https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de)
 * [https://antidotezine.com/2017/01/22/trump-knows-you/](https://antidotezine.com/2017/01/22/trump-knows-you/)
+* [https://motherboard.vice.com/en_us/article/ai-could-resurrect-a-racist-housing-policy](https://motherboard.vice.com/en_us/article/ai-could-resurrect-a-racist-housing-policy)
