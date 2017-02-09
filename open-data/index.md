@@ -1,5 +1,6 @@
 # Free Datasets
 
+* [data.word](https://data.world/), crowd-sourced datasets
 * [Kaggle](https://www.kaggle.com/datasets), datasets for machine learning competitions
 * [DataLA](https://data.lacity.org/), where the City of LA makes their data available
 * [data.gov](http://data.gov), where the US government makes their data available
