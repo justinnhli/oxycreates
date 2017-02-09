@@ -17,7 +17,7 @@ html: clean
 publish: html
 	find html -name '.*.un~' -exec rm -f {} +
 	find html -name '.*.swp' -exec rm -f {} +
-	lftp -u justinnh, sftp://ftp.justinnhli.oxycreates.org -e "mirror -vvvR --only-newer --ignore-time html public_html ; quit"
+	rsync --archive --progress --rsh=ssh html/ justinnh@ftp.justinnhli.oxycreates.org:/home/justinnh/public_html
 
 clean:
 	rm -rf html
