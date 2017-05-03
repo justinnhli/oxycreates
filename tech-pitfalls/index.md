@@ -20,3 +20,4 @@ A selection of articles on the pitfalls of technology with respect to social jus
 * [https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de](https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de)
 * [https://antidotezine.com/2017/01/22/trump-knows-you/](https://antidotezine.com/2017/01/22/trump-knows-you/)
 * [https://motherboard.vice.com/en_us/article/ai-could-resurrect-a-racist-housing-policy](https://motherboard.vice.com/en_us/article/ai-could-resurrect-a-racist-housing-policy)
+* [https://www.nytimes.com/2017/05/01/us/politics/sent-to-prison-by-a-software-programs-secret-algorithms.html](https://www.nytimes.com/2017/05/01/us/politics/sent-to-prison-by-a-software-programs-secret-algorithms.html)
