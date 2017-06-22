@@ -23,3 +23,4 @@ A selection of articles on the pitfalls of technology with respect to social jus
 * [https://www.nytimes.com/2017/05/01/us/politics/sent-to-prison-by-a-software-programs-secret-algorithms.html](https://www.nytimes.com/2017/05/01/us/politics/sent-to-prison-by-a-software-programs-secret-algorithms.html)
 * [https://motherboard.vice.com/en_us/article/why-an-ai-judged-beauty-contest-picked-nearly-all-white-winners](https://motherboard.vice.com/en_us/article/why-an-ai-judged-beauty-contest-picked-nearly-all-white-winners)
 * [https://www.bloomberg.com/news/articles/2016-06-23/artificial-intelligence-has-a-sea-of-dudes-problem](https://www.bloomberg.com/news/articles/2016-06-23/artificial-intelligence-has-a-sea-of-dudes-problem)
+* [https://www.cjr.org/tow_center/facebook-questions.php](https://www.cjr.org/tow_center/facebook-questions.php)
