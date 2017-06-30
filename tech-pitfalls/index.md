@@ -1,6 +1,6 @@
 # Pitfalls of Technology
 
-A selection of articles on the pitfalls of technology with respect to social justice.
+A selection of articles on the pitfalls of technology with respect to social justice. Maintained by [Justin Li](http://www.oxy.edu/faculty/justin-li).
 
 * ["I had so many advantages, and I barely made it": Pinterest engineer on Silicon Valley sexism](http://qz.com/659196/i-had-so-many-advantages-and-i-barely-made-it-pinterests-tracy-chou-on-sexism-in-tech/)
 * [What coding class should I take: Programming is like learning a new language](http://www.slate.com/articles/life/classes/2015/08/what_coding_class_should_i_take_programming_is_like_learning_a_new_language.html)
