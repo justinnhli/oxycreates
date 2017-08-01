@@ -1,6 +1,6 @@
 # Grad School Advice
 
-Most of the following is about PhD programs, and may not apply to Master's programs. I should also caveat this entire page by saying that this is just my view of things; you should definitely check out the many guides online, and also talk to other professors and your peers about grad school.
+Most of the following is about PhD programs, and may not apply to Master's programs. I ([Justin Li](http://www.oxy.edu/faculty/justin-li)) should also caveat this entire page by saying that this is just my view of things; you should definitely check out the many guides online, and also talk to other professors and your peers about grad school.
 
 If you are interested in going into a PhD program after you graduate, the short version of what you should be doing now:
 
