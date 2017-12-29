@@ -24,3 +24,4 @@ A selection of articles on the pitfalls of technology with respect to social jus
 * [Why An AI-Judged Beauty Contest Picked Nearly All White Winners](https://motherboard.vice.com/en_us/article/why-an-ai-judged-beauty-contest-picked-nearly-all-white-winners)
 * [Artificial Intelligence Has a 'Sea of Dudes' Problem](https://www.bloomberg.com/news/articles/2016-06-23/artificial-intelligence-has-a-sea-of-dudes-problem)
 * [Open letter to Facebook from a data journalist](https://www.cjr.org/tow_center/facebook-questions.php)
+* [AI Programs Are Learning to Exclude Some African-American Voices](https://www.technologyreview.com/s/608619/ai-programs-are-learning-to-exclude-some-african-american-voices/)
