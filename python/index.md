@@ -2,5 +2,8 @@
 
 Maintained by [Justin Li](http://www.oxy.edu/faculty/justin-li).
 
-* [Hypothesis](https://hypothesis.readthedocs.io/), a property-based testing framework
-* [PyMC3](https://pymc-devs.github.io/pymc3/), a Bayesian statistics modeling package
+* [Hypothesis](https://hypothesis.works/), a property-based testing framework
+* [PyMC3](http://docs.pymc.io/), a Bayesian statistics modeling package
+* [Scrapy](https://scrapy.org/), a web crawler and scraper
+* [Fire](https://github.com/google/python-fire), a package to automatically create CLIs
+* [Gooey](https://github.com/chriskiehl/Gooey#gooey), a package to automatically create GUIs
