@@ -73,3 +73,8 @@ A PhD program usually contains two distinct phases:
 ## Afterwards
 
 After you get your PhD, come find me and I will buy you a drink.
+
+## Other Resources
+
+* [How to pick a grad school for a PhD in Computer Science](https://medium.com/@vijayc/how-to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246)
+
