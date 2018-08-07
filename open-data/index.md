@@ -15,6 +15,8 @@
 * [CORGIS Datasets](http://think.cs.vt.edu/corgis/)
 * [Enigma Public](https://public.enigma.com/)
 * [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit)
+* [DataShop - learning interaction data](https://pslcdatashop.web.cmu.edu/)
+* [Government Data Portals](https://blog.cambridgespark.com/50-free-machine-learning-datasets-part-one-government-data-portals-e39524ba601b)
 
 # Example Data Analyses
 
