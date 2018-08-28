@@ -76,5 +76,6 @@ After you get your PhD, come find me and I will buy you a drink.
 
 ## Other Resources
 
-* [How to pick a grad school for a PhD in Computer Science](https://medium.com/@vijayc/how-to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246)
-
+* [2017-11-17: Why you should consider applying for grad school right now](https://80000hours.org/2017/11/consider-applying-for-a-phd-program-now/)
+* [2018-03-02: How to pick a grad school for a PhD in Computer Science](https://medium.com/@vijayc/how-to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246)
+* [2018-08-27: What You Need to Know Before Considering a PhD](http://www.fast.ai/2018/08/27/grad-school/)
