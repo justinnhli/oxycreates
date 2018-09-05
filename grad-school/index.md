@@ -79,3 +79,4 @@ After you get your PhD, come find me and I will buy you a drink.
 * [2017-11-17: Why you should consider applying for grad school right now](https://80000hours.org/2017/11/consider-applying-for-a-phd-program-now/)
 * [2018-03-02: How to pick a grad school for a PhD in Computer Science](https://medium.com/@vijayc/how-to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246)
 * [2018-08-27: What You Need to Know Before Considering a PhD](http://www.fast.ai/2018/08/27/grad-school/)
+* [2018-09-05: Why PhD Experiences are so Variable and what you can do about it](https://freedom-to-tinker.com/2018/09/04/why-phd-experiences-are-so-variable-and-what-you-can-do-about-it/)
