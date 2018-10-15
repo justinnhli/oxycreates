@@ -89,7 +89,7 @@ Options are always optional. Some commands (and some options) have required argu
 
 ## Advanced Topics
 
-* Pipes - Many commands can be chained together with the pipe (`|`), so the output of one becomes the input of the other. For example, `head <file> | sort | unic -c` will count the unique items in the first ten lines of a file.
+* Pipes - Many commands can be chained together with the pipe (`|`), so the output of one becomes the input of the other. For example, `head <file> | sort | uniq -c` will count the unique items in the first ten lines of a file.
 * Command Substitution - In commands that have a text argument (eg. `grep`), the text could be the output of another command. For example, `grep "$(head -n 1 <file1>)" <file2>` will search `file2` for the first line of `file1`.
 * Variables, Branches, Loops - Bash is a full programming language with variables, branches, and loops. Check the Advanced Bash Scripting Guide for more information.
 
