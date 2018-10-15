@@ -24,10 +24,6 @@ So why might you want a PhD?
 
 The last thing I'll say in this section is that not knowing what you want to do is not a good reason to join a PhD program. A PhD program is not an extended college experience, and the expectations, stress, and relatively low pay means it will not be a pleasant experience if you are only half-ass-ing it.
 
-Other views on the subject:
-
-* [I'll Admit It: I Loved Graduate School](http://treethinkers.org/ill-admit-it-i-loved-graduate-school/)
-
 ## Selecting Schools
 
 Finding a PhD program is very different from finding an undergraduate college (or a Master's program, for that matter). Although rankings do matter a little, especially if you want to become a researcher, much more important is the professor(s) who you will be working with. You want to find someone whose research interests align with your own. There are several ways you can do this:
@@ -76,6 +72,8 @@ After you get your PhD, come find me and I will buy you a drink.
 
 ## Other Resources
 
+* [2013-10-30: I'll Admit It: I Loved Graduate School](http://treethinkers.org/ill-admit-it-i-loved-graduate-school/)
+* [2014: Applying to Ph.D. Programs in Computer Science (pdf) (pdf) (pdf) (pdf) (pdf) (pdf) (pdf) (pdf) (pdf)](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 * [2017-11-17: Why you should consider applying for grad school right now](https://80000hours.org/2017/11/consider-applying-for-a-phd-program-now/)
 * [2018-03-02: How to pick a grad school for a PhD in Computer Science](https://medium.com/@vijayc/how-to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246)
 * [2018-08-27: What You Need to Know Before Considering a PhD](http://www.fast.ai/2018/08/27/grad-school/)
