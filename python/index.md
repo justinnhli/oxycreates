@@ -10,4 +10,6 @@ Maintained by [Justin Li](http://www.oxy.edu/faculty/justin-li).
 * [PyAutoGUI](https://pyautogui.readthedocs.io), automate GUI tasks
 * [PyInstaller](https://www.pyinstaller.org/), convert Python scripts into standalone executables.
 * [PyMC3](http://docs.pymc.io/), a Bayesian statistics modeling package
+* [Py-Spy](https://github.com/benfred/py-spy), a sampling profiler for Python
 * [Scrapy](https://scrapy.org/), a web crawler and scraper
+* [TPOT](https://github.com/EpistasisLab/tpot), automatically create machine learning pipelines
