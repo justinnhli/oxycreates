@@ -25,7 +25,7 @@ html: clean
 	echo '    <body>' >> html/index.html
 	echo '        <p>Maintained by <a href="http://www.oxy.edu/faculty/justin-li">Justin Li</a>.</p>' >> html/index.html
 	echo '        <ul>' >> html/index.html
-	for dir in $$(find html -mindepth 1 -maxdepth 1 -type d); do \
+	for dir in $$(find html -mindepth 1 -maxdepth 1 -type d | sort); do \
 		dir="$$(echo "$$dir" | sed 's#^html/##;')"; \
 		echo "            <li><a href=\"$$dir\">$$dir</a></li>" >> html/index.html; \
 	done
