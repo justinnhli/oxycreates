@@ -13,13 +13,21 @@
 ## Free Online Textbooks
 
 * [*Think Python*, by Allen Downey](http://greenteapress.com/wp/think-python-2e/)
-* [*Problem Solving with Algorithms and Data Structures using Python*, by Brad Miller and David Ranum, Luther College](https://runestone.academy/runestone/static/pythonds/index.html)
+* [*Problem Solving with Algorithms and Data Structures using Python*, by Brad Miller and David Ranum](https://runestone.academy/runestone/static/pythonds/index.html)
 * [*Data Structures 1*, by the OpenDSA Project](https://opendsa-server.cs.vt.edu/ODSA/Books/CS2/html/)
 * [*Data Structures 2*, by the OpenDSA Project](https://opendsa-server.cs.vt.edu/ODSA/Books/CS3)
 * [*Algorithms*, by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms)
-* [*Programming Languages*, by Scott F. Smith](http://pl.cs.jhu.edu/pl/book/index.shtml)
 
 ## Specific Topics
+
+### Deep Learniing
+
+* [*Deep Learning*, by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/)
+* [*Dive into Deep Learning*, Aston Zhang and Zack C. Lipton and Mu Li and Alex J. Smola](http://d2l.ai/)
+
+### Programming Languages
+
+* [*Programming Languages*, by Scott F. Smith](http://pl.cs.jhu.edu/pl/book/index.shtml)
 
 ### Command Line
 
