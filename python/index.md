@@ -1,15 +1,15 @@
 # Interesting Python Modules
 
-Maintained by [Justin Li](http://www.oxy.edu/faculty/justin-li).
+Maintained by [Justin Li](http://www.oxy.edu/faculty/justin-li)
 
 * [Fire](https://github.com/google/python-fire), a package to automatically create CLIs
 * [Gooey](https://github.com/chriskiehl/Gooey#gooey), a package to automatically create GUIs
 * [Hypothesis](https://hypothesis.works/), a property-based testing framework
 * [Keyboard](https://github.com/boppreh/keyboard), simulate key presses and keyboard shortcuts
 * [Joblib](https://joblib.readthedocs.io), a cache-to-disk library
-* [Pint](https://pint.readthedocs.io/en/latest/), a package for units and unit conversions.
+* [Pint](https://pint.readthedocs.io/en/latest/), a package for units and unit conversions
 * [PyAutoGUI](https://pyautogui.readthedocs.io), automate GUI tasks
-* [PyInstaller](https://www.pyinstaller.org/), convert Python scripts into standalone executables.
+* [PyInstaller](https://www.pyinstaller.org/), convert Python scripts into standalone executables
 * [PyMC3](http://docs.pymc.io/), a Bayesian statistics modeling package
 * [Py-Spy](https://github.com/benfred/py-spy), a sampling profiler for Python
 * [Scrapy](https://scrapy.org/), a web crawler and scraper
