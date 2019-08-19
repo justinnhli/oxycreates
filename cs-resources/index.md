@@ -12,10 +12,26 @@
 
 ## Free Online Textbooks
 
+### Intro CS
+
 * [*Think Python*, by Allen Downey](http://greenteapress.com/wp/think-python-2e/)
+* [*Java for Python Programmers*](http://interactivepython.org/courselib/static/java4python/index.html)
+* [*Introduction to Programming Using Java*, by David Eck](http://math.hws.edu/eck/cs124/downloads/javanotes7-linked.pdf)
+* [*Think Java: How to Think Like a Computer Scientist*, by Allen Downey](http://www.greenteapress.com/thinkapjava/thinkapjava.pdf)
+* [*Python Tutor*](http://pythontutor.com/)
+
+### Data Structures
+
 * [*Problem Solving with Algorithms and Data Structures using Python*, by Brad Miller and David Ranum](https://runestone.academy/runestone/static/pythonds/index.html)
 * [*Data Structures 1*, by the OpenDSA Project](https://opendsa-server.cs.vt.edu/ODSA/Books/CS2/html/)
 * [*Data Structures 2*, by the OpenDSA Project](https://opendsa-server.cs.vt.edu/ODSA/Books/CS3)
+* [*Java Structures*, by Duane Bailey](http://www.cs.williams.edu/~bailey/JavaStructures)
+* [*Open Data Structures*, by Pat Morin](http://opendatastructures.org/ods-java/)
+* [*Data Structures and Algorithms with Object-Oriented Design Patterns in Java*, by Bruno Preiss](http://www.brpreiss.com/books/opus5/)
+* [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
+### Algorithms
+
 * [*Algorithms*, by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms)
 
 ## Specific Topics
