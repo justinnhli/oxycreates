@@ -33,7 +33,6 @@ Finding a PhD program is very different from finding an undergraduate college (o
 * Finally, you can look up all the professors in a department of a school. I suggest filtering the schools first, if not by ranking, then by desirable location, climate, etc.
 
 For these professors, you want to read through their recent papers, to get a sense of what they do. If they have a website, check what they say about being contacted by prospective students. Some of them will welcome emails, others will defer all emails to their admissions office.
-The Application
 
 A standard PhD application is due at the end of the calendar year, and will require:
 
