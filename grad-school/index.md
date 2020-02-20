@@ -35,6 +35,8 @@ Finding a PhD program is very different from finding an undergraduate college (o
 
 For these professors, you want to read through their recent papers, to get a sense of what they do. If they have a website, check what they say about being contacted by prospective students. Some of them will welcome emails, others will defer all emails to their admissions office.
 
+The main caveat - and this is a big one - is that none of this will tell you how supportive your advisor will be. This is one of the most commonly cited factors in whether PhD students finish their degree or decide to drop out, but is almost impossible to determine without being at the school. The problem is that one of the most important thing for determining where to apply is how supportive your advisor is going to be. This is almost impossible to determine. One unreliable indicator may be how many PhDs the they have graduated in the last five years. A good advisor should graduate a student every two or three years - this means that students are being mentored appropriately, and that the advisor has funding for a steady pipeline of PhD students. Other than that though, your best estimate of this is when you get flown out after you get accepted; see the Interview section below.
+
 ## The Application
 
 A standard PhD application is due at the end of the calendar year, and will require:
