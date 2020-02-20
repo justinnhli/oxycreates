@@ -28,11 +28,14 @@ The last thing I'll say in this section is that not knowing what you want to do 
 
 Finding a PhD program is very different from finding an undergraduate college (or a Master's program, for that matter). Although rankings do matter a little, especially if you want to become a researcher, much more important is the professor(s) who you will be working with. You want to find someone whose research interests align with your own. There are several ways you can do this:
 
-* Since all of you are doing research, presumably on something related to what you want to do, a good start is to look up the authors of papers you've read.
+* If you are already doing/have done research, presumably on something related to what you want to do, a good start is to look up the authors of papers you've read.
+* Similarly, it's often helpful to look through the major conferences/journals in your topic, to see what research questions are popular and who is working on what.
 * Your advisor and other professors probably know people in their areas, and can answer questions about their research or even their personality.
 * Finally, you can look up all the professors in a department of a school. I suggest filtering the schools first, if not by ranking, then by desirable location, climate, etc.
 
 For these professors, you want to read through their recent papers, to get a sense of what they do. If they have a website, check what they say about being contacted by prospective students. Some of them will welcome emails, others will defer all emails to their admissions office.
+
+## The Application
 
 A standard PhD application is due at the end of the calendar year, and will require:
 
