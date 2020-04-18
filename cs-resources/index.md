@@ -36,10 +36,18 @@
 
 ## Specific Topics
 
+### C++
+
+* [*Thinking in C++*, by Bruce Eckel](https://planetpdf.com/thinking-in-c/)
+
 ### Deep Learniing
 
 * [*Deep Learning*, by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/)
 * [*Dive into Deep Learning*, Aston Zhang and Zack C. Lipton and Mu Li and Alex J. Smola](http://d2l.ai/)
+
+### Operating Systems
+
+* [*Operating Systems: Three Easy Pieces*, by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ### Programming Languages
 
