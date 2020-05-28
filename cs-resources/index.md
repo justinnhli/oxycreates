@@ -9,6 +9,7 @@
 * [Exercism](https://exercism.io/)
 * [HackerRank](https://www.hackerrank.com/)
 * [Practice-It!](https://practiceit.cs.washington.edu/)
+* [Techie Delight](https://www.techiedelight.com/list-of-problems/)
 
 ## Free Online Textbooks
 
