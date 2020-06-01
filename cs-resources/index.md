@@ -42,6 +42,10 @@
 
 * [*Thinking in C++*, by Bruce Eckel](https://planetpdf.com/thinking-in-c/)
 
+### Machine Learning
+
+* [*Interpretable Machine Learning*, by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
+
 ### Deep Learniing
 
 * [*Deep Learning*, by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/)
