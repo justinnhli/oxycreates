@@ -32,6 +32,10 @@
 * [*Data Structures and Algorithms with Object-Oriented Design Patterns in Java*, by Bruno Preiss](http://www.brpreiss.com/books/opus5/)
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
+### Discrete Maths
+
+* [*An Active Introduction to Discrete Mathematics and Algorithms*, by Chuck Cusack](https://cusack.hope.edu/Notes/)
+
 ### Algorithms
 
 * [*Algorithms*, by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms)
