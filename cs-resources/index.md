@@ -32,6 +32,11 @@
 * [*Data Structures and Algorithms with Object-Oriented Design Patterns in Java*, by Bruno Preiss](http://www.brpreiss.com/books/opus5/)
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
+### "Missing Semester" - command line, git, etc.
+
+* [MIT's Missing Semester](https://missing.csail.mit.edu/)
+* [NC State's Intro to Computing Environments](http://ncsu.orgsync.com/org/e115/Online_Textbook)
+
 ### Discrete Maths
 
 * [*An Active Introduction to Discrete Mathematics and Algorithms*, by Chuck Cusack](https://cusack.hope.edu/Notes/)
