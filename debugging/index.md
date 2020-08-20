@@ -6,10 +6,7 @@
 >
 > \- Brian Kernighan, The Elements of Programming Style
 
-More than programming, debugging requires the mindset of a problem solver. Code *can* be written sloppily and in an ad-hoc way; debugging *must* be done methodically and with attention to detail. This guide is about the concrete steps of debugging, but I highly recommend first reading [Ryan Chadwick's problem solving tutorial](https://ryanstutorials.net/problem-solving-skills/) for an introduction to the appropriate attitude and mindset. This guide is heavily inspired by [a similar guide by John Regehr](https://blog.regehr.org/archives/199).
-
-A brief table of contents:
-
+* [Introduction](#introduction)
 * [Terminology](#terminology)
 * [The Mental Game of Debugging](#mental-game)
 * [A Debugging Guide](#guide)
@@ -24,6 +21,10 @@ A brief table of contents:
     9. [(Optional) Create a test for this bug](#guide-9)
 * [Conclusion](#conclusion)
 * [Other Resources](#resources)
+
+## Introduction <a id="introduction"></a>
+
+More than programming, debugging requires the mindset of a problem solver. Code *can* be written sloppily and in an ad-hoc way; debugging *must* be done methodically and with attention to detail. This guide is about the concrete steps of debugging, but I highly recommend first reading [Ryan Chadwick's problem solving tutorial](https://ryanstutorials.net/problem-solving-skills/) for an introduction to the appropriate attitude and mindset. This guide is heavily inspired by [a similar guide by John Regehr](https://blog.regehr.org/archives/199).
 
 ## Terminology <a id="terminology"></a>
 
