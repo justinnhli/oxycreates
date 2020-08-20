@@ -1,10 +1,3 @@
-<style>
-    /* CSS for code-prettify (prepend <!--?prettify linenums=true?--> to use) */
-    .prettyprinted ol.linenums {counter-reset:codeLineNum;}
-    .prettyprinted ol.linenums li {counter-increment:codeLineNum; position:relative; list-style-type:none; background-color:transparent;}
-    .prettyprinted ol.linenums li:before {content:counter(codeLineNum); position:absolute; right:100%; margin-right:1em;}
-    blockquote {font-style:italic; background-color:#EEEEEE;}
-</style>
 <script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
 
 # A Debugging Guide
