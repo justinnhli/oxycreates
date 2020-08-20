@@ -68,6 +68,10 @@
 
 * [*Programming Languages*, by Scott F. Smith](http://pl.cs.jhu.edu/pl/book/index.shtml)
 
+### SQL
+
+* [*SQL Murder Mystery*](http://mystery.knightlab.com/)
+
 ### Command Line
 
 * [Really Friendly Command Line Intro](https://hellowebbooks.com/learn-command-line/)
