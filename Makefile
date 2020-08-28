@@ -11,7 +11,7 @@ html: clean
 	# generate HTML from markdown
 	for md in $$(find html -name '*.md'); do \
 		output="$$(echo "$$md" | sed 's/md$$/html/;')"; \
-		cmark "$$md" > "$$output"; \
+		cmark --unsafe "$$md" > "$$output"; \
 	done
 	# create index
 	echo '<!DOCTYPE html>' >> html/index.html
