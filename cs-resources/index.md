@@ -72,6 +72,10 @@
 
 * [*SQL Murder Mystery*](http://mystery.knightlab.com/)
 
+### Graphics
+
+* [*Introduction to Computer Graphics*, David J. Eck](http://math.hws.edu/graphicsbook/index.html)
+
 ### Command Line
 
 * [Really Friendly Command Line Intro](https://hellowebbooks.com/learn-command-line/)
