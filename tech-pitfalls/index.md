@@ -18,7 +18,7 @@ A selection of articles on the pitfalls of technology with respect to social jus
 * [Welcome to the Black Box](https://www.jacobinmag.com/2016/09/big-data-algorithms-math-facebook-advertisement-marketing/)
 * [The code I'm still ashamed of](https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.j4ykws6jv)
 * [How big data is unfair](https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de)
-* [Trump Knows You Better Than You Know Yourself](https://antidotezine.com/2017/01/22/trump-knows-you/)
+* [Trump Knows You Better Than You Know Yourself](https://www.vice.com/en/article/mg9vvn/how-our-likes-helped-trump-win)
 * [AI Could Resurrect a Racist Housing Policy](https://motherboard.vice.com/en_us/article/ai-could-resurrect-a-racist-housing-policy)
 * [Sent to Prison by a Software Program's Secret Algorithms](https://www.nytimes.com/2017/05/01/us/politics/sent-to-prison-by-a-software-programs-secret-algorithms.html)
 * [Why An AI-Judged Beauty Contest Picked Nearly All White Winners](https://motherboard.vice.com/en_us/article/why-an-ai-judged-beauty-contest-picked-nearly-all-white-winners)
