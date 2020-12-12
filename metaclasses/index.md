@@ -9,12 +9,10 @@
         ol {list-style-type:decimal;}
         ol ol {list-style-type:lower-alpha;}
         ol ol ol {list-style-type:lower-roman;}
-        /* CSS for code-prettify (prepend <!--?prettify linenums=true?--> to use) */
-        .prettyprinted ol.linenums {counter-reset:codeLineNum;}
-        .prettyprinted ol.linenums li {counter-increment:codeLineNum; position:relative; list-style-type:none; background-color:transparent;}
-        .prettyprinted ol.linenums li:before {content:counter(codeLineNum); position:absolute; right:100%; margin-right:1em;}
     </style>
-    <script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.4.1/styles/github-gist.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.4.1/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
 </head>
 <body>
 
@@ -24,7 +22,6 @@ Before understanding metaclasses, you need to master classes in Python. And Pyth
 
 In most languages, classes are just pieces of code that describe how to produce an object. That's kinda true in Python too:
 
-<!--?prettify linenums=true?-->
 ```
 >>> class ObjectCreator(object):
 ...       pass
@@ -41,7 +38,6 @@ Yes, objects.
 
 As soon as you use the keyword `class`, Python executes it and creates an OBJECT. The instruction
 
-<!--?prettify linenums=true?-->
 ```
 >>> class ObjectCreator(object):
 ...       pass
@@ -60,7 +56,6 @@ But still, it's an object, and therefore:
 
 e.g.:
 
-<!--?prettify linenums=true?-->
 ```
 >>> print(ObjectCreator) # you can print a class because it's an object
 <class '__main__.ObjectCreator'>
@@ -89,7 +84,6 @@ Since classes are objects, you can create them on the fly, like any object.
 
 First, you can create a class in a function using `class`:
 
-<!--?prettify linenums=true?-->
 ```
 >>> def choose_class(name):
 ...     if name == 'foo':
@@ -116,7 +110,6 @@ When you use the `class` keyword, Python creates this object automatically. But 
 
 Remember the function `type`? The good old function that lets you know what type an object is:
 
-<!--?prettify linenums=true?-->
 ```
 >>> print(type(1))
 <type 'int'>
@@ -134,7 +127,6 @@ Well, [`type`](http://docs.python.org/2/library/functions.html#type) has a compl
 
 `type` works this way:
 
-<!--?prettify linenums=true?-->
 ```
 type(name, bases, attrs)
 ```
@@ -147,7 +139,6 @@ Where:
 
 e.g.:
 
-<!--?prettify linenums=true?-->
 ```
 >>> class MyShinyClass(object):
 ...       pass
@@ -155,7 +146,6 @@ e.g.:
 
 can be created manually this way:
 
-<!--?prettify linenums=true?-->
 ```
 >>> MyShinyClass = type('MyShinyClass', (), {}) # returns a class object
 >>> print(MyShinyClass)
@@ -168,7 +158,6 @@ You'll notice that we use "MyShinyClass" as the name of the class and as the var
 
 `type` accepts a dictionary to define the attributes of the class. So:
 
-<!--?prettify linenums=true?-->
 ```
 >>> class Foo(object):
 ...       bar = True
@@ -176,14 +165,12 @@ You'll notice that we use "MyShinyClass" as the name of the class and as the var
 
 Can be translated to:
 
-<!--?prettify linenums=true?-->
 ```
 >>> Foo = type('Foo', (), {'bar':True})
 ```
 
 And used as a normal class:
 
-<!--?prettify linenums=true?-->
 ```
 >>> print(Foo)
 <class '__main__.Foo'>
@@ -198,7 +185,6 @@ True
 
 And of course, you can inherit from it, so:
 
-<!--?prettify linenums=true?-->
 ```
 >>>   class FooChild(Foo):
 ...         pass
@@ -206,7 +192,6 @@ And of course, you can inherit from it, so:
 
 would be:
 
-<!--?prettify linenums=true?-->
 ```
 >>> FooChild = type('FooChild', (Foo,), {})
 >>> print(FooChild)
@@ -217,7 +202,6 @@ True
 
 Eventually, you'll want to add methods to your class. Just define a function with the proper signature and assign it as an attribute.
 
-<!--?prettify linenums=true?-->
 ```
 >>> def echo_bar(self):
 ...       print(self.bar)
@@ -234,7 +218,6 @@ True
 
 And you can add even more methods after you dynamically create the class, just like adding methods to a normally created class object.
 
-<!--?prettify linenums=true?-->
 ```
 >>> def echo_bar_more(self):
 ...       print('yet another method')
@@ -258,7 +241,6 @@ But we learned that Python classes are objects.
 
 Well, metaclasses are what create these objects. They are the classes' classes, you can picture them this way:
 
-<!--?prettify linenums=true?-->
 ```
 MyClass = MetaClass()
 my_object = MyClass()
@@ -266,7 +248,6 @@ my_object = MyClass()
 
 You've seen that `type` lets you do something like this:
 
-<!--?prettify linenums=true?-->
 ```
 MyClass = type('MyClass', (), {})
 ```
@@ -281,7 +262,6 @@ You see that by checking the `__class__` attribute.
 
 Everything, and I mean everything, is an object in Python. That includes ints, strings, functions and classes. All of them are objects. And all of them have been created from a class:
 
-<!--?prettify linenums=true?-->
 ```
 >>> age = 35
 >>> age.__class__
@@ -300,7 +280,6 @@ Everything, and I mean everything, is an object in Python. That includes ints, s
 
 Now, what is the `__class__` of any `__class__` ?
 
-<!--?prettify linenums=true?-->
 ```
 >>> age.__class__.__class__
 <type 'type'>
@@ -322,7 +301,6 @@ You can call it a 'class factory' if you wish.
 
 In Python 2, you can add a `__metaclass__` attribute when you write a class (see next section for the Python 3 syntax):
 
-<!--?prettify linenums=true?-->
 ```
 class Foo(object):
     __metaclass__ = something...
@@ -341,7 +319,6 @@ Read that several times.
 
 When you do:
 
-<!--?prettify linenums=true?-->
 ```
 class Foo(Bar):
     pass
@@ -369,7 +346,6 @@ And what can create a class? `type`, or anything that subclasses or uses it.
 
 The syntax to set the metaclass has been changed in Python 3:
 
-<!--?prettify linenums=true?-->
 ```
 class Foo(object, metaclass=something):
     ...
@@ -381,7 +357,6 @@ The behavior of metaclasses however stays [largely the same](https://www.python.
 
 One thing added to metaclasses in Python 3 is that you can also pass attributes as keyword-arguments into a metaclass, like so:
 
-<!--?prettify linenums=true?-->
 ```
 class Foo(object, metaclass=something, kwarg1=value1, kwarg2=value2):
     ...
@@ -403,7 +378,6 @@ Luckily, `__metaclass__` can actually be any callable, it doesn't need to be a f
 
 So we will start with a simple example, by using a function.
 
-<!--?prettify linenums=true?-->
 ```
 # the metaclass will automatically get passed the same argument
 # that you usually pass to `type`
@@ -431,7 +405,6 @@ class Foo(): # global __metaclass__ won't work with "object" though
 
 Let's check:
 
-<!--?prettify linenums=true?-->
 ```
 >>> hasattr(Foo, 'bar')
 False
@@ -443,7 +416,6 @@ True
 
 Now, let's do exactly the same, but using a real class for a metaclass:
 
-<!--?prettify linenums=true?-->
 ```
 # remember that `type` is actually a class like `str` and `int`
 # so you can inherit from it
@@ -469,7 +441,6 @@ class UpperAttrMetaclass(type):
 
 Let's rewrite the above, but with shorter and more realistic variable names now that we know what they mean:
 
-<!--?prettify linenums=true?-->
 ```
 class UpperAttrMetaclass(type):
     def __new__(cls, clsname, bases, attrs):
@@ -484,7 +455,6 @@ You may have noticed the extra argument `cls`. There is nothing special about it
 
 But this is not proper OOP. We are calling `type` directly and we aren't overriding or calling the parent's `__new__`. Let's do that instead:
 
-<!--?prettify linenums=true?-->
 ```
 class UpperAttrMetaclass(type):
     def __new__(cls, clsname, bases, attrs):
@@ -497,7 +467,6 @@ class UpperAttrMetaclass(type):
 
 We can make it even cleaner by using `super`, which will ease inheritance (because yes, you can have metaclasses, inheriting from metaclasses, inheriting from type):
 
-<!--?prettify linenums=true?-->
 ```
 class UpperAttrMetaclass(type):
     def __new__(cls, clsname, bases, attrs):
@@ -511,7 +480,6 @@ class UpperAttrMetaclass(type):
 
 Oh, and in python 3 if you do this call with keyword arguments, like this:
 
-<!--?prettify linenums=true?-->
 ```
 class Foo(object, metaclass=MyMetaclass, kwarg1=value1):
     ...
@@ -519,7 +487,6 @@ class Foo(object, metaclass=MyMetaclass, kwarg1=value1):
 
 It translates to this in the metaclass to use it:
 
-<!--?prettify linenums=true?-->
 ```
 class MyMetaclass(type):
     def __new__(cls, clsname, bases, dct, kwargs1=default):
@@ -561,7 +528,6 @@ Well, usually you don't:
 
 The main use case for a metaclass is creating an API. A typical example of this is the Django ORM. It allows you to define something like this:
 
-<!--?prettify linenums=true?-->
 ```
 class Person(models.Model):
     name = models.CharField(max_length=30)
@@ -570,7 +536,6 @@ class Person(models.Model):
 
 But if you do this:
 
-<!--?prettify linenums=true?-->
 ```
 person = Person(name='bob', age='35')
 print(person.age)
@@ -588,7 +553,6 @@ First, you know that classes are objects that can create instances.
 
 Well, in fact, classes are themselves instances. Of metaclasses.
 
-<!--?prettify linenums=true?-->
 ```
 >>> class Foo(object): pass
 >>> id(Foo)
