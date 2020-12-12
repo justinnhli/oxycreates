@@ -64,9 +64,11 @@
 
 * [*Operating Systems: Three Easy Pieces*, by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
-### Programming Languages
+### Programming Languages/Compilers
 
 * [*Programming Languages*, by Scott F. Smith](http://pl.cs.jhu.edu/pl/book/index.shtml)
+* [*Crafting Interpreters*, by Bob Nystrom](http://craftinginterpreters.com/)
+* [Advance Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 
 ### SQL
 
