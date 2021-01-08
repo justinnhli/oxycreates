@@ -13,6 +13,10 @@
 
 ## Free Online Textbooks
 
+### Other Similar Lists
+
+* by [Colin S. Gordon](https://csgordon.github.io/books.html)
+
 ### Intro CS
 
 * [*Think Python*, by Allen Downey](http://greenteapress.com/wp/think-python-2e/)
