@@ -1,8 +1,8 @@
-# Grad School Advice
+# PhD Grad School Advice
 
-Most of the following is about PhD programs, and may not apply to Master's programs. I ([Justin Li](http://www.oxy.edu/faculty/justin-li)) should also caveat this entire page by saying that this is just my view of things; you should definitely check out the many guides online, and also talk to other professors and your peers about grad school.
+Almost all of the following is about PhD programs, and may not apply to Master's programs. I ([Justin Li](http://www.oxy.edu/faculty/justin-li)) should also caveat this entire page by saying that this is just my view of things; you should definitely check out the many guides online, and also talk to other professors and your peers about grad school. There is a list of additional guides/articles about grad school at the end of this page.
 
-If you are interested in going into a PhD program after you graduate, the short version of what you should be doing now:
+__TL;DR__: If you are interested in going into a PhD program after you graduate, the short version of what you should be doing now:
 
 1. figure out whether a PhD is really for you; this includes talking to other professors about their PhD experience
 2. start looking at schools and, more importantly, potential professors whose research you are interested in
@@ -17,7 +17,7 @@ Let me start off with some negatives:
 * About 50% of PhD students leave grad school before getting a PhD. Many often leave with a Master's, which may or may not be useful depending on your field.
 * Many PhDs still have trouble finding jobs that use their skillset (ie. they are under-employed).
 
-So why might you want a PhD?
+So why might you want a PhD? To me, there are only two good reasons:
 
 * If you want a job that requires a PhD. My own motivation was to teach at the university-level (ie. be a professor).
 * If you are really interested in a subject and want to spend a couple years understanding it.
@@ -70,7 +70,7 @@ A PhD program usually contains two distinct phases:
 
 * If you pass your quals/prelims, you are officially a PhD Candidate. The next 3-5 years is spent on research, with few if any classes, culminating in a thesis and your doctoral defense.
 
-## Afterwards
+## Afterwards <span id="afterwards"></span>
 
 After you get your PhD, come find me and I will buy you a drink.
 
