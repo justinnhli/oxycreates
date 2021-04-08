@@ -1,5 +1,7 @@
 # CS Learning Resources
 
+Maintained by [Justin Li](http://www.oxy.edu/faculty/justin-li).
+
 ## Coding Practice
 
 * [Advent of Code](https://adventofcode.com/)
@@ -78,6 +80,11 @@
 ### SQL
 
 * [*SQL Murder Mystery*](http://mystery.knightlab.com/)
+
+### Data Science
+
+* [*Computer Age Statistical Inference*, by Bradley Efron and Trevor Hastie](https://web.stanford.edu/~hastie/CASI/)
+* [*Python Data Science Handbook*, by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### Graphics
 
