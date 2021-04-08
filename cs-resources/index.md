@@ -44,6 +44,7 @@
 ### Discrete Maths
 
 * [*An Active Introduction to Discrete Mathematics and Algorithms*, by Chuck Cusack](https://cusack.hope.edu/Notes/)
+* [*Connecting Discrete Mathematics and Computer Science*, by David Liben-Nowell](https://cs.carleton.edu/faculty/dln/book/)
 
 ### Algorithms
 
