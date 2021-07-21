@@ -75,6 +75,7 @@ Maintained by [Justin Li](http://www.oxy.edu/faculty/justin-li).
 
 * [*Programming Languages*, by Scott F. Smith](http://pl.cs.jhu.edu/pl/book/index.shtml)
 * [*Crafting Interpreters*, by Bob Nystrom](http://craftinginterpreters.com/)
+* [*Programming Languages: Application and Interpretation*, by Shriram Krishnamurthi](https://cs.brown.edu/courses/cs173/2012/book/)
 * [Advance Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 
 ### SQL
