@@ -38,6 +38,10 @@ Maintained by [Justin Li](http://www.oxy.edu/faculty/justin-li).
 * [*Data Structures and Algorithms with Object-Oriented Design Patterns in Java*, by Bruno Preiss](http://www.brpreiss.com/books/opus5/)
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
+### Computer Organization
+
+* [*Dive into Systems*, by Suzanne J. Matthews, Tia Newhall, and Kevin C. Webb](https://diveintosystems.org/)
+
 ### "Missing Semester" - command line, git, etc.
 
 * [MIT's Missing Semester](https://missing.csail.mit.edu/)
