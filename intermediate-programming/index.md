@@ -14,6 +14,8 @@ Here are some tips on how to tackle bigger projects for the intermediate program
 
 ## Other Resources
 
-* [*The Mental Game of Python*](https://www.youtube.com/watch?v=Uwuv05aZ6ug), by Raymond Hettinger. Despite the name, the ideas here apply to other programming languages as well.
-
 * [*How To Plan a Coding Project - A Programming Outline*](https://medium.com/swlh/how-to-plan-a-coding-project-a-programming-outline-fc5917c60553), by Grant Darling.
+
+* [*The Mental Game of Python*](https://www.youtube.com/watch?v=Uwuv05aZ6ug), by Raymond Hettinger, about writing clean code. Despite the name, the ideas here apply to other programming languages as well.
+
+* [*Debugging*](/debugging/), by Justin Li. A guide to debugging.
