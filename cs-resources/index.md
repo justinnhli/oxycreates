@@ -96,6 +96,10 @@ Maintained by [Justin Li](http://www.oxy.edu/faculty/justin-li).
 
 * [*SQL Murder Mystery*](http://mystery.knightlab.com/)
 
+### Human-Computer Interaction
+
+* [*A Beg­inner’s Guide to Finding User Need*, by Jan Dittrich](https://jdittrich.github.io/userNeedResearchBook/)
+
 ### Data Science
 
 * [*Computer Age Statistical Inference*, by Bradley Efron and Trevor Hastie](https://web.stanford.edu/~hastie/CASI/)
