@@ -98,7 +98,7 @@ Maintained by [Justin Li](http://www.oxy.edu/faculty/justin-li).
 
 ### Human-Computer Interaction
 
-* [*A Beg­inner’s Guide to Finding User Need*, by Jan Dittrich](https://jdittrich.github.io/userNeedResearchBook/)
+* [*A Beginner's Guide to Finding User Need*, by Jan Dittrich](https://jdittrich.github.io/userNeedResearchBook/)
 
 ### Data Science
 
