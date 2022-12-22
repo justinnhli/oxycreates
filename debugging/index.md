@@ -146,4 +146,5 @@ Good luck, and happy bug hunting!
 * [Problem Solving Skills and Techniques](https://ryanstutorials.net/problem-solving-skills/) - Ryan Chadwick
 * [How to Debug](https://blog.regehr.org/archives/199) - John Regehr
 * [What does debugging a program look like?](https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/) - Julia Evans
+* [The Pocket Guide to Debugging (paid zine)](https://jvns.ca/blog/2022/12/21/new-zine--the-pocket-guide-to-debugging/) - Julie Evans
 * [UChicago's debugging guide](https://uchicago-cs.github.io/debugging-guide/)
